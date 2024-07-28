@@ -1,4 +1,4 @@
-# ei-coding-exercises-2
+# Ei-coding-exercises-2
 
 # Exercise-2
 
