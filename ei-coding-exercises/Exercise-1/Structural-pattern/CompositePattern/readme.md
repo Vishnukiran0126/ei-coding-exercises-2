@@ -1,6 +1,6 @@
 # Employee Composite Pattern Demo
 
-This project demonstrates the use of the Composite Pattern in Java to represent a hierarchy of employees in an organization. The Composite Pattern allows you to treat individual objects and compositions of objects uniformly.
+This demonstrates the use of the Composite Pattern in Java to represent a hierarchy of employees in an organization. The Composite Pattern allows you to treat individual objects and compositions of objects uniformly.
 
 ## Features
 
