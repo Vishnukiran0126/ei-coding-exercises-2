@@ -1,5 +1,6 @@
 # ei-coding-exercises-2
-**#Exercise-2**
+
+# Exercise-2
 
 # Simple Real-Time Chat Application
 
