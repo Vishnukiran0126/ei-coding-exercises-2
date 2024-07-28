@@ -1,6 +1,6 @@
 # Notification Factory Method Pattern Demo
 
-This project demonstrates the use of the Factory Method Pattern in Java to create different types of notifications (Email and SMS). The Factory Method Pattern allows the creation of objects without specifying the exact class of object that will be created.
+This  demonstrates the use of the Factory Method Pattern in Java to create different types of notifications (Email and SMS). The Factory Method Pattern allows the creation of objects without specifying the exact class of object that will be created.
 
 ## Features
 
