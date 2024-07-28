@@ -35,8 +35,7 @@ This is a simple real-time chat application implemented in Java. The application
 - **CommunicationAdapter:** Interface for different communication protocols.
 - **WebSocketAdapter:** Implements CommunicationAdapter for WebSocket communication.
 - **HTTPAdapter:** Implements CommunicationAdapter for HTTP communication.
-    ```
-
+- 
 ## Example Usage
 
 ```sh
